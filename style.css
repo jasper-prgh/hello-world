@@ -5,3 +5,8 @@ h1 {
 h1 span {
     opacity: .5;
 }
+
+article {
+    background-color: antiquewhite;
+    padding: 1em;
+}
